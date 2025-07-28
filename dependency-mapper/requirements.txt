@@ -1,3 +1,5 @@
 requests
 pytest
 beautifulsoup4
+ruff
+black
